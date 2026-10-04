@@ -1,4 +1,4 @@
-# qqqqqqqqqqqqqqqqqqqqqqqqqQR-Stabilized Direct Genocchi Spectral Collocation Method
+# QR-Stabilized Direct Genocchi Spectral Collocation Method
 
 This repository contains the Python implementation used for the numerical experiments in the research article:
 
